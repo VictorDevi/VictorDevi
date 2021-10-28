@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/vitingabrielps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/bBwmgrEa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <br><br>
-  <img align="center" height="30" width="80" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
+  <img align="center" height="20" width="80" src="https://img.shields.io/website-up-down-green-red/http/mrkaikiscripting.com.br.svg">
 </div>
