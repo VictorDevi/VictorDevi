@@ -20,6 +20,6 @@
   <a href="https://www.youtube.com/channel/UCRoTq3LEarHvA4U7ILY7g7Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/vitingabrielps/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/bBwmgrEa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-  <img align="center" height="30" width="60" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
+<br><br>
+  <img align="center" height="30" width="80" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg">
 </div>
